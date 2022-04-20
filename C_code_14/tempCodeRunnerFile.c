@@ -1,0 +1,2 @@
+
+    scanf("%s",pst->xingbie);
